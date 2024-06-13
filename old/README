@@ -1,0 +1,1 @@
+lavorano come omodimero, quindi la sequenza deve essere per forza palindrome con le prime 18bp, tuttavia potrebbe variare la distanza tra i due motif palindromi. Quindi prova ad aumentare la distanza tra di loro nella ricerca del motif ai promotori genici.
