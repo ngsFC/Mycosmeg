@@ -1,4 +1,4 @@
-# Analsysi Mycobacterium Smegmatis
+## Analysis Mycobacterium Smegmatis
 
-Genomic sequence:
+**Genomic sequence**:
 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000015005.1/
